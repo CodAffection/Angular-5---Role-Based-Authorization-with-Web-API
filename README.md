@@ -1,5 +1,5 @@
 # Angular 5: Role Based Authorization with Web API.
-This is an Angular 5 Application to demonstrate how implementation of Role Based Authorization in Angular 5 with Web API.
+This is an Angular 5 Application to demonstrate implementation of Role Based Authorization in Angular 5 with Web API.
 
 ###### Before Running this Project
  1. Install npm packages using 'npm install' command.
