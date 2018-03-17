@@ -5,7 +5,7 @@ This is an Angular 5 Application to demonstrate implementation of Role Based Aut
  1. Install npm packages using 'npm install' command.
  2. Change Web API DB Connection String
  
- # Related Project
+ # Related Projects
  User Registration in Angular 5 With Web API : https://github.com/DotnetMob/User-Registration-in-Angular-5-With-Web-API
  Login & Logout in Angular 5 With Web API : https://github.com/DotnetMob/Angular-5-Login-and-Logout-in-Web-API-Using-Token-Based-Authentication
  
