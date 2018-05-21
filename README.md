@@ -13,6 +13,7 @@ This is an Angular 5 Application to demonstrate implementation of Role Based Aut
  
  # Step By Step Explanation
  
+ Text Article : https://goo.gl/VefCZk
  Video Tutorial : https://youtu.be/Ks5ADKqPrBQ
  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ks5ADKqPrBQ
